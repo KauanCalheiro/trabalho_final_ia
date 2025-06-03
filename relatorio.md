@@ -16,9 +16,9 @@ O trabalho consiste na aplicação de métodos de aprendizado de máquina superv
 
 | **Nome da Base**         | Grape Quality                                            |
 | ------------------------ | :------------------------------------------------------- |
-| **Origem / Repositório** | https://www.kaggle.com/datasets/mrmars1010/grape-quality |
-| **Número de Entradas**   | 1000                                                     |
-| **Número de Atributos**  | 13                                                       |
+| **Origem / Repositório** | [Kaggle - Grape Quality Dataset](https://www.kaggle.com/datasets/mrmars1010/grape-quality) |
+| **Número de Entradas**   | 1000                                                                                      |
+| **Número de Atributos**  | 13                                                                                        |
 
 A base **Grape Quality** reúne 1000 amostras de uvas com dados físico-químicos, ambientais e de origem. Cada registro inclui informações como variedade, teor de açúcar, acidez, peso do cacho e condições de cultivo, com o objetivo de classificar a qualidade da uva.
 
@@ -61,9 +61,9 @@ A base **Grape Quality** reúne 1000 amostras de uvas com dados físico-químico
 
 | **Nome da Base**         | 20 Newsgroups                                                                                                                  |
 | ------------------------ | :----------------------------------------------------------------------------------------------------------------------------- |
-| **Origem / Repositório** | https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_20newsgroups.html#sklearn.datasets.fetch_20newsgroups |
-| **Número de Entradas**   | 18.846                                                                                                                         |
-| **Número de Atributos**  | 3                                                                                                                              |
+| **Origem / Repositório** | [Scikit-learn Documentation - 20 Newsgroups](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_20newsgroups.html#sklearn.datasets.fetch_20newsgroups) |
+| **Número de Entradas**   | 18.846                                                                                                                                                                 |
+| **Número de Atributos**  | 3                                                                                                                                                                      |
 
 A base **20 Newsgroups** contém 18.846 documentos de texto coletados de 20 grupos de notícias da internet. O objetivo é classificar os textos em uma das 20 categorias temáticas diferentes, envolvendo tópicos que vão desde esportes até política e tecnologia.
 

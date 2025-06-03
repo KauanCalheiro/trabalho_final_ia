@@ -17,7 +17,7 @@ O trabalho consiste na aplicação de métodos de aprendizado de máquina superv
 | **Nome da Base**         | Grape Quality                                            |
 | ------------------------ | :------------------------------------------------------- |
 | **Origem / Repositório** | [Kaggle - Grape Quality Dataset](https://www.kaggle.com/datasets/mrmars1010/grape-quality) |
-| **Número de Entradas**   | 1000                                                                                      |
+| **Número de Entradas**   | 1.000                                                                                      |
 | **Número de Atributos**  | 13                                                                                        |
 
 A base **Grape Quality** reúne 1000 amostras de uvas com dados físico-químicos, ambientais e de origem. Cada registro inclui informações como variedade, teor de açúcar, acidez, peso do cacho e condições de cultivo, com o objetivo de classificar a qualidade da uva.

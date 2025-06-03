@@ -103,7 +103,7 @@ A base **20 Newsgroups** contém 18.846 documentos de texto coletados de 20 grup
 - `soc.religion.christian`
 
 ---
-
+<!-- TODO: -->
 ### Dados de Imagens Coloridas
 
 **Nome da Base:**
